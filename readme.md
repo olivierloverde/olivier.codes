@@ -6,7 +6,9 @@
 
 <div align="center">
 ![Build and deploy](https://github.com/olivierloverde/olivier.codes/workflows/Build%20and%20deploy/badge.svg?branch=master)
+
 [![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=olivierloverde/olivier.codes)](https://dependabot.com)
+
 [![CodeFactor](https://www.codefactor.io/repository/github/olivierloverde/olivier.codes/badge)](https://www.codefactor.io/repository/github/olivierloverde/olivier.codes)
 </div>
 
@@ -14,6 +16,7 @@
 <div align="center">
 [![Security Responsible
 Disclosure](https://img.shields.io/badge/Security-Responsible%20Disclosure-yellow.svg)](https://github.com/nodejs/security-wg/blob/master/processes/responsible_disclosure_template.md)
+
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](http://standardjs.com/)
 </div>
 
