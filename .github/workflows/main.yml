@@ -16,3 +16,4 @@ jobs:
         with:
           deploykey: ${{secrets.DEPLOY_GH_KEY}}
           username: olivierloverde
+          email: ${{secrets.DEPLOY_GH_EMAIL}}
