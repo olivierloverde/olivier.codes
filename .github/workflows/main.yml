@@ -24,10 +24,6 @@ jobs:
               key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
               restore-keys: |
                   ${{ runner.os }}-yarn-
-        - uses: actions/cache@v1
-          with:
-              path: cache
-              key: cache
         - name: Install Dependencies
           run: yarn install --frozen-lockfile
         - name: Hexo Clean
