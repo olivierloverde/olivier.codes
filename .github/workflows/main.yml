@@ -5,15 +5,42 @@ on: [push]
 jobs:
   build:
     runs-on: ubuntu-latest
+    strategy:
+        matrix:
+            node-version: [12]
+
     steps:
-      - uses: actions/checkout@v1
-      - name: Cache node modules
-        uses: actions/cache@v1
-        with:
-          path: node_modules
-          key: ${{runner.OS}}-${{hashFiles('**/yarn.lock')}}
-      - uses: yrpang/github-actions-hexo@master
-        with:
-          deploykey: ${{secrets.DEPLOY_GH_KEY}}
-          username: olivierloverde
-          email: ${{secrets.DEPLOY_GH_EMAIL}}
+        - uses: actions/checkout@v1
+        - name: Setup SSH Keys and known_hosts
+          env:
+              SSH_AUTH_SOCK: /tmp/ssh_agent.sock
+          run: |
+              mkdir -p ~/.ssh
+              ssh-keyscan github.com >> ~/.ssh/known_hosts
+              ssh-agent -a $SSH_AUTH_SOCK > /dev/null
+              ssh-add - <<< "${{ secrets.DEPLOY_GH_KEY }}
+        - name: Use Node.js ${{ matrix.node-version }}
+          uses: actions/setup-node@v1
+          with:
+              node-version: ${{ matrix.node-version }}
+        - name: Get yarn cache directory path
+          id: yarn-cache-dir-path
+          run: echo "::set-output name=dir::$(yarn cache dir)"
+        - uses: actions/cache@v1
+          with:
+              path: ${{ steps.yarn-cache-dir-path.outputs.dir }}
+              key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
+              restore-keys: |
+                  ${{ runner.os }}-yarn-
+        - uses: actions/cache@v1
+          with:
+              path: cache
+              key: cache
+        - name: Install Dependencies
+          run: yarn install --frozen-lockfile
+        - name: Hexo Clean
+          run: ./node_modules/.bin/hexo clean
+        - name: Hexo Deploy
+          env:
+              SSH_AUTH_SOCK: /tmp/ssh_agent.sock
+          run: ./node_modules/.bin/hexo deploy
