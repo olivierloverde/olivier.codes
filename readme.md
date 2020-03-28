@@ -8,13 +8,12 @@
 [![Build and deploy](https://github.com/olivierloverde/olivier.codes/workflows/Build%20and%20deploy/badge.svg)](https://github.com/olivierloverde/olivier.codes/actions)
 [![CodeFactor](https://www.codefactor.io/repository/github/olivierloverde/olivier.codes/badge)](https://www.codefactor.io/repository/github/olivierloverde/olivier.codes)
 [![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=olivierloverde/olivier.codes)](https://dependabot.com)
-
 [![Security Responsible Disclosure](https://img.shields.io/badge/Security-Responsible%20Disclosure-yellow.svg)](https://github.com/nodejs/security-wg/blob/master/processes/responsible_disclosure_template.md)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](http://standardjs.com/)
 
 </div>
 <br />
-This is the source code of my blog.
+This is the source code of my personal blog.
 
 ### Technical stack
 Tooling
