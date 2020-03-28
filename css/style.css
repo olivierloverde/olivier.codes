@@ -319,8 +319,8 @@
 body h1,
 body .h1 {
   display: block;
-  margin-top: 3rem;
-  margin-bottom: 1rem;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
   color: #2bbc8a;
   letter-spacing: 0.01em;
   font-weight: 700;
@@ -333,13 +333,14 @@ body h2,
 body .h2 {
   position: relative;
   display: block;
-  margin-top: 2rem;
+  margin-top: 0.5rem;
   margin-bottom: 0.5rem;
   color: #eee;
   text-transform: none;
   letter-spacing: normal;
   font-weight: bold;
   font-size: 1rem;
+  left: 1rem;
 }
 body h3 {
   color: #eee;
@@ -807,7 +808,7 @@ body {
   overflow: auto;
   margin-top: 1rem;
   padding-right: 2rem;
-  max-width: 20em;
+  max-width: 24em;
   max-height: calc(95vh - 7rem);
   text-align: right;
 }
