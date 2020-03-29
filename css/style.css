@@ -661,7 +661,6 @@ body {
     background: none;
   }
   #header #nav ul li {
-    display: none;
     border-right: 0;
   }
   #header #nav ul li.icon {
@@ -672,7 +671,7 @@ body {
   }
   #header #nav li:not(:first-child) {
     padding-top: 1rem;
-    padding-left: 1.8rem;
+    padding-left: 1.4rem;
     font-size: 1rem;
   }
 }
