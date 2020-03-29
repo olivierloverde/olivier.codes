@@ -1,6 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://olivier.codes/sitemap.xml
-Sitemap: https://olivier.codes/post-sitemap.xml
-Sitemap: https://olivier.codes/page-sitemap.xml
