@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang=en>
-<head>
+<head><link rel=manifest href=/manifest.json>
     <!-- so meta -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -266,5 +266,10 @@
     </script>
 
 
-</body>
+<script>if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('/sw.js?t=1585443458508')
+    .then(function () {console.log('ServiceWorker Register Successfully.')})
+    .catch(function (e) {console.error(e)});
+}
+</script></body>
 </html>
