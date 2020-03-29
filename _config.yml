@@ -101,3 +101,35 @@ deploy:
   type: git
   repo: https://github.com/olivierloverde/olivier.codes
   branch: gh-pages
+
+feed:
+  type:
+    - atom
+    - rss2
+  path:
+    - atom.xml
+    - rss2.xml
+  limit: 20
+  hub:
+  content:
+  content_limit: 140
+  content_limit_delim: ' '
+  order_by: -date
+  icon: images/favicon-32x32.png
+  autodiscovery: true
+  template:
+
+symbols_count_time:
+  symbols: true
+  time: true
+  total_symbols: true
+  total_time: true
+  exclude_codeblock: true
+  awl: 4
+  wpm: 920
+  suffix: "mins."
+
+sitemap:
+  path: sitemap.xml
+
+all_minifier: true

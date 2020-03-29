@@ -12,6 +12,9 @@
         <% for (var i in theme.nav) { %> 
           <li><a href="<%- url_for(theme.nav[i]) %>"><%= __('nav.'+i).replace("nav.", "") %></a></li>
         <% } %>
+        <li>
+          <a href="rss2.xml"><i class="fas fa-rss"></i></a>
+        </li>
       </ul>
     </nav>
   </div>
