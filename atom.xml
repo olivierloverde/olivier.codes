@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Olivier.codes</title>
+  <icon>https://olivier.codes/images/favicon-32x32.png</icon>
+  <subtitle>Foodtech Entrepreneur (@Innovorder) writing about my ideas and opinions on technology, codes, devops.</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://olivier.codes/"/>
+  <updated>2020-03-29T03:42:37.978Z</updated>
+  <id>https://olivier.codes/</id>
+  
+  <author>
+    <name>Olivier Loverde</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>JAMSTACK: create a scalable blog in 5 minutes for free and with automatic deployment using Hexo, GitHub Pages and GitHub Actions</title>
+    <link href="https://olivier.codes/2020/03/28/Jamstack-create-a-scalable-blog-in-5-minutes-for-free-and-with-automatic-deployment-using-Hexo-Github-Pages-and-Github-Actions/"/>
+    <id>https://olivier.codes/2020/03/28/Jamstack-create-a-scalable-blog-in-5-minutes-for-free-and-with-automatic-deployment-using-Hexo-Github-Pages-and-Github-Actions/</id>
+    <published>2020-03-28T23:20:54.000Z</published>
+    <updated>2020-03-29T03:42:37.978Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Introduction&quot;&gt;&lt;a href=&quot;#Introduction&quot; class=&quot;headerlink&quot; title=&quot;Introduction&quot;&gt;&lt;/a&gt;Introduction&lt;/h1&gt;&lt;p&gt;In this article, we are going
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>console.info(&#39;Hello world&#39;);</title>
+    <link href="https://olivier.codes/2020/03/28/hello-world/"/>
+    <id>https://olivier.codes/2020/03/28/hello-world/</id>
+    <published>2020-03-28T20:05:41.000Z</published>
+    <updated>2020-03-29T03:42:37.978Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Hey this is my first blog post !
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
