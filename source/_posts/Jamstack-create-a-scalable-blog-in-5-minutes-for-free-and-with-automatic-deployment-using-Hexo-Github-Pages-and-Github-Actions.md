@@ -4,14 +4,13 @@ title: >-
   deployment using Hexo, GitHub Pages and GitHub Actions
 date: 2020-03-28 23:20:54
 published: true
-cover_image: ""
+cover_image: https://res.cloudinary.com/practicaldev/image/fetch/s--_C0pCHWr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://res.cloudinary.com/practicaldev/image/fetch/s--dd94jSN5--/c_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_420%2Cq_auto%2Cw_1000/https://dev-to-uploads.s3.amazonaws.com/i/sms386w8gnr91la99ljt.png
 description: "We are going to use the JAMSTACK and GitHub services in order to build and deploy a blog in 5 minutes and for free."
 tags: jamstack, javascript, webdev, github actions, github pages
 series:
-canonical_url:
+canonical_url: https://olivier.codes/2020/03/28/Jamstack-create-a-scalable-blog-in-5-minutes-for-free-and-with-automatic-deployment-using-Hexo-Github-Pages-and-Github-Actions/
 devto_publication: false
 devto_draft: true
-devto_id:
 ---
 # Introduction
 In this article, we are going to use the JAMSTACK and GitHub services in order to build and deploy a blog in 5 minutes and for free. We will also make the deployment automatic (for free too !).

@@ -3,11 +3,11 @@ title: 'ES2020: Summary of new features with examples
 🔥'
 date: 2020-04-12 16:39:07
 published: true
-cover_image: ""
+cover_image: https://res.cloudinary.com/practicaldev/image/fetch/s--zXMvFxfE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://res.cloudinary.com/practicaldev/image/fetch/s--p97UXbm9--/c_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_420%2Cq_auto%2Cw_1000/https://dev-to-uploads.s3.amazonaws.com/i/bjmlibtmb2rj9vygrj27.png
 description: "In this article, we’re going to review some of the latest and greatest features coming with ES2020."
 tags: es2020, javascript, webdev, nodejs
 series:
-canonical_url:
+canonical_url: https://olivier.codes/2020/04/12/ES2020-Summary-of-new-features-with-examples/
 devto_publication: false
 devto_draft: true
 ---
