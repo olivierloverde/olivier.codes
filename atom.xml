@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://olivier.codes/"/>
-  <updated>2020-03-29T03:42:37.978Z</updated>
+  <updated>2020-04-12T15:44:31.058Z</updated>
   <id>https://olivier.codes/</id>
   
   <author>
@@ -17,25 +17,40 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>JAMSTACK: create a scalable blog in 5 minutes for free and with automatic deployment using Hexo, GitHub Pages and GitHub Actions</title>
-    <link href="https://olivier.codes/2020/03/28/Jamstack-create-a-scalable-blog-in-5-minutes-for-free-and-with-automatic-deployment-using-Hexo-Github-Pages-and-Github-Actions/"/>
-    <id>https://olivier.codes/2020/03/28/Jamstack-create-a-scalable-blog-in-5-minutes-for-free-and-with-automatic-deployment-using-Hexo-Github-Pages-and-Github-Actions/</id>
-    <published>2020-03-28T23:20:54.000Z</published>
-    <updated>2020-03-29T03:42:37.978Z</updated>
+    <title>ES2020: Summary of new features with examples  🔥</title>
+    <link href="https://olivier.codes/2020/04/12/ES2020-Summary-of-new-features-with-examples/"/>
+    <id>https://olivier.codes/2020/04/12/ES2020-Summary-of-new-features-with-examples/</id>
+    <published>2020-04-12T16:39:07.000Z</published>
+    <updated>2020-04-12T15:44:31.058Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;h1 id=&quot;Introduction&quot;&gt;&lt;a href=&quot;#Introduction&quot; class=&quot;headerlink&quot; title=&quot;Introduction&quot;&gt;&lt;/a&gt;Introduction&lt;/h1&gt;&lt;p&gt;In this article, we are going
-        
-      
+      In this article, we’re going to review some of the latest and greatest features coming with ES2020.
     
     </summary>
     
     
+    
+      <category term="es2020, es6, es11, es7, es8, es9, es10, javascript, tc39" scheme="https://olivier.codes/tags/es2020-es6-es11-es7-es8-es9-es10-javascript-tc39/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JAMSTACK: create a scalable blog in 5 minutes for free and with automatic deployment using Hexo, GitHub Pages and GitHub Actions</title>
+    <link href="https://olivier.codes/2020/03/28/Jamstack-create-a-scalable-blog-in-5-minutes-for-free-and-with-automatic-deployment-using-Hexo-Github-Pages-and-Github-Actions/"/>
+    <id>https://olivier.codes/2020/03/28/Jamstack-create-a-scalable-blog-in-5-minutes-for-free-and-with-automatic-deployment-using-Hexo-Github-Pages-and-Github-Actions/</id>
+    <published>2020-03-28T23:20:54.000Z</published>
+    <updated>2020-04-12T15:44:31.058Z</updated>
+    
+    <summary type="html">
+    
+      Description of the article
+    
+    </summary>
+    
+    
+    
+      <category term="tag1, tag2, tag3" scheme="https://olivier.codes/tags/tag1-tag2-tag3/"/>
     
   </entry>
   
@@ -44,21 +59,17 @@
     <link href="https://olivier.codes/2020/03/28/hello-world/"/>
     <id>https://olivier.codes/2020/03/28/hello-world/</id>
     <published>2020-03-28T20:05:41.000Z</published>
-    <updated>2020-03-29T03:42:37.978Z</updated>
+    <updated>2020-04-12T15:44:31.058Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;Hey this is my first blog post !
-        
-      
+      My first blog post !
     
     </summary>
     
     
+    
+      <category term="first" scheme="https://olivier.codes/tags/first/"/>
     
   </entry>
   

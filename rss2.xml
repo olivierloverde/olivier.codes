@@ -15,8 +15,23 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>Entrepreneur writing about my ideas and opinions on technology, codes, devops.</description>
-    <pubDate>Sun, 29 Mar 2020 03:42:37 GMT</pubDate>
+    <pubDate>Sun, 12 Apr 2020 15:44:31 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>ES2020: Summary of new features with examples  🔥</title>
+      <link>https://olivier.codes/2020/04/12/ES2020-Summary-of-new-features-with-examples/</link>
+      <guid>https://olivier.codes/2020/04/12/ES2020-Summary-of-new-features-with-examples/</guid>
+      <pubDate>Sun, 12 Apr 2020 16:39:07 GMT</pubDate>
+      <description>
+      
+        In this article, we’re going to review some of the latest and greatest features coming with ES2020.
+      
+      </description>
+      
+      
+      <comments>https://olivier.codes/2020/04/12/ES2020-Summary-of-new-features-with-examples/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>JAMSTACK: create a scalable blog in 5 minutes for free and with automatic deployment using Hexo, GitHub Pages and GitHub Actions</title>
@@ -25,13 +40,7 @@
       <pubDate>Sat, 28 Mar 2020 23:20:54 GMT</pubDate>
       <description>
       
-        
-        
-          
-          
-            &lt;h1 id=&quot;Introduction&quot;&gt;&lt;a href=&quot;#Introduction&quot; class=&quot;headerlink&quot; title=&quot;Introduction&quot;&gt;&lt;/a&gt;Introduction&lt;/h1&gt;&lt;p&gt;In this article, we are going
-          
-        
+        Description of the article
       
       </description>
       
@@ -46,13 +55,7 @@
       <pubDate>Sat, 28 Mar 2020 20:05:41 GMT</pubDate>
       <description>
       
-        
-        
-          
-          
-            &lt;p&gt;Hey this is my first blog post !
-          
-        
+        My first blog post !
       
       </description>
       
