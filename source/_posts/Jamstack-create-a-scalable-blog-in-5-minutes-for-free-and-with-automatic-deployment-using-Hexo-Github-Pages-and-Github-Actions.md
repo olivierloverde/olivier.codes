@@ -3,7 +3,15 @@ title: >-
   JAMSTACK: create a scalable blog in 5 minutes for free and with automatic
   deployment using Hexo, GitHub Pages and GitHub Actions
 date: 2020-03-28 23:20:54
-tags:
+published: true
+cover_image: ""
+description: "Description of the article"
+tags: tag1, tag2, tag3
+series:
+canonical_url:
+devto_publication: false
+devto_draft: true
+devto_id:
 ---
 # Introduction
 In this article, we are going to use the JAMSTACK and GitHub services in order to build and deploy a blog in 5 minutes and for free. We will also make the deployment automatic (for free too !).
