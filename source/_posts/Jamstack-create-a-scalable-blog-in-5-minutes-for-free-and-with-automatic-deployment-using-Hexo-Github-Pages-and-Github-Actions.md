@@ -5,8 +5,7 @@ title: >-
 date: 2020-03-28 23:20:54
 published: true
 cover_image: ""
-description: "Description of the article"
-tags: tag1, tag2, tag3
+description: "We are going to use the JAMSTACK and GitHub services in order to build and deploy a blog in 5 minutes and for free."
 series:
 canonical_url:
 devto_publication: false
