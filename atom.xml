@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://olivier.codes/"/>
-  <updated>2020-04-12T15:49:15.129Z</updated>
+  <updated>2020-04-12T16:06:09.606Z</updated>
   <id>https://olivier.codes/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://olivier.codes/2020/04/12/ES2020-Summary-of-new-features-with-examples/"/>
     <id>https://olivier.codes/2020/04/12/ES2020-Summary-of-new-features-with-examples/</id>
     <published>2020-04-12T16:39:07.000Z</published>
-    <updated>2020-04-12T15:49:15.129Z</updated>
+    <updated>2020-04-12T16:06:09.606Z</updated>
     
     <summary type="html">
     
@@ -31,7 +31,7 @@
     
     
     
-      <category term="es2020, es6, es11, es7, es8, es9, es10, javascript, tc39" scheme="https://olivier.codes/tags/es2020-es6-es11-es7-es8-es9-es10-javascript-tc39/"/>
+      <category term="es2020, javascript, webdev, nodejs" scheme="https://olivier.codes/tags/es2020-javascript-webdev-nodejs/"/>
     
   </entry>
   
@@ -40,7 +40,7 @@
     <link href="https://olivier.codes/2020/03/28/Jamstack-create-a-scalable-blog-in-5-minutes-for-free-and-with-automatic-deployment-using-Hexo-Github-Pages-and-Github-Actions/"/>
     <id>https://olivier.codes/2020/03/28/Jamstack-create-a-scalable-blog-in-5-minutes-for-free-and-with-automatic-deployment-using-Hexo-Github-Pages-and-Github-Actions/</id>
     <published>2020-03-28T23:20:54.000Z</published>
-    <updated>2020-04-12T15:49:15.129Z</updated>
+    <updated>2020-04-12T16:06:09.606Z</updated>
     
     <summary type="html">
     
@@ -50,6 +50,8 @@
     
     
     
+      <category term="jamstack, javascript, webdev, github actions, github pages" scheme="https://olivier.codes/tags/jamstack-javascript-webdev-github-actions-github-pages/"/>
+    
   </entry>
   
   <entry>
@@ -57,7 +59,7 @@
     <link href="https://olivier.codes/2020/03/28/hello-world/"/>
     <id>https://olivier.codes/2020/03/28/hello-world/</id>
     <published>2020-03-28T20:05:41.000Z</published>
-    <updated>2020-04-12T15:49:15.129Z</updated>
+    <updated>2020-04-12T16:06:09.606Z</updated>
     
     <summary type="html">
     
