@@ -11,11 +11,10 @@ canonical_url:
 devto_publication: false
 devto_draft: true
 ---
-In this article, we’re going to review some of the latest and greatest features coming with ES2020. 
-🔥
+In this article, we’re going to review some of the latest and greatest features coming with ES2020. 🔥
 
 # 🤠 Getting started
-We are going to test these features in a Nodejs environment using Babel for having all the features.
+We are going to test these features in a Node.js environment using Babel.
 
 ## Method #1: creating a project from scratch
 Start by creating a new project:
@@ -24,7 +23,7 @@ $ mkdir es2020-tests
 $ yarn init
 {% endraw %}{% endcodeblock %}
 
-Now add Babel dependencies:
+Now add `@babel/cli @babel/core @babel/node @babel/preset-env` dependencies:
 {% codeblock lang:bash %}{% raw %}
 $ yarn add --dev @babel/cli @babel/core @babel/node @babel/preset-env
 {% endraw %}{% endcodeblock %}
@@ -47,7 +46,7 @@ $ yarn install
 
 ## Private variable in Class
 
-You can now declare private variable in a class by using a hastag `#`. If the private variable is called outside of its class It will throw a `SyntaxError`.
+You can now declare a private variable in a class by using a hastag `#`. If a private variable is called outside of its class It will throw a `SyntaxError`.
 
 {% codeblock lang:js %}{% raw %}
 class MyClass {
@@ -64,7 +63,7 @@ console.info(myClass.#helloWorld) // SyntaxError: Private field '#helloWorld' mu
 
 ## BigInt
 
-There was a limitation on largest possible integer because of how Javascript represented number internally (because it is using a 64-bit floating point, see [IEE 754](https://en.wikipedia.org/wiki/IEEE_754). 
+There was a limitation on largest possible integer because of how Javascript represented number internally (it is using a 64-bit floating point, see [IEE 754](https://en.wikipedia.org/wiki/IEEE_754). 
 {% codeblock lang:js %}{% raw %}
 const maxInteger = Number.MAX_SAFE_INTEGER;
 
