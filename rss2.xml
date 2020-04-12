@@ -15,7 +15,7 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>Entrepreneur writing about my ideas and opinions on technology, codes, devops.</description>
-    <pubDate>Sun, 12 Apr 2020 15:44:31 GMT</pubDate>
+    <pubDate>Sun, 12 Apr 2020 15:45:52 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -40,7 +40,7 @@
       <pubDate>Sat, 28 Mar 2020 23:20:54 GMT</pubDate>
       <description>
       
-        Description of the article
+        We are going to use the JAMSTACK and GitHub services in order to build and deploy a blog in 5 minutes and for free.
       
       </description>
       
