@@ -5,7 +5,7 @@ date: 2020-04-12 16:39:07
 published: true
 cover_image: ""
 description: "In this article, we’re going to review some of the latest and greatest features coming with ES2020."
-tags: es2020, es6, es11, es7, es8, es9, es10, javascript, tc39
+tags: es2020, javascript, webdev, nodejs
 series:
 canonical_url:
 devto_publication: false
