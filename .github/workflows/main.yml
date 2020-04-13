@@ -33,3 +33,9 @@ jobs:
             ACTIONS_DEPLOY_KEY: ${{ secrets.DEPLOY_GH_KEY }}
             PUBLISH_BRANCH: gh-pages
             PUBLISH_DIR: ./public
+        - uses: yanzay/notify-telegram@v0.1.0
+          if: always()
+          with:
+            chat: ${{ secrets.TELEGRAM_CHAT_ID }} # user id or channel name secret
+            token: ${{ secrets.TELEGRAM_BOT_TOKEN }} # token secret
+            status: ${{ job.status }}
