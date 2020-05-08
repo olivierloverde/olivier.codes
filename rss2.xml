@@ -15,8 +15,23 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>Entrepreneur writing about my ideas and opinions on technology, codes, devops.</description>
-    <pubDate>Mon, 13 Apr 2020 16:55:09 GMT</pubDate>
+    <pubDate>Fri, 08 May 2020 23:17:08 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Deno: 1.0 officially scheduled on May, 13! Review of the features</title>
+      <link>https://olivier.codes/2020/05/08/Deno-1-0-officially-scheduled-on-May-13-Review-of-the-features/</link>
+      <guid>https://olivier.codes/2020/05/08/Deno-1-0-officially-scheduled-on-May-13-Review-of-the-features/</guid>
+      <pubDate>Fri, 08 May 2020 23:46:08 GMT</pubDate>
+      <description>
+      
+        Explanation of the features coming in Deno 1.0
+      
+      </description>
+      
+      
+      <comments>https://olivier.codes/2020/05/08/Deno-1-0-officially-scheduled-on-May-13-Review-of-the-features/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>ES2020: Summary of new features with examples  🔥</title>
