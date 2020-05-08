@@ -8,7 +8,7 @@ date: 2020-05-08 23:46:08
 cover_image:
 tags: deno, typescript, nodejs, node.js, release
 series:
-canonical_url:
+canonical_url: https://olivier.codes/2020/05/08/Deno-1-0-officially-scheduled-on-May-13-Review-of-the-features/
 ---
 # 🤠 Introduction
 It all started 2 years ago, Ryan Dahl, the creator of Node.js gave a talk at the JSConf 2018 "10 Things I Regret About Node.js":
@@ -398,3 +398,7 @@ Let's add the missing permission `deno --allow-net server.ts`:
 $ curl http://127.0.0.1:8000
 Hello World!
 ```
+
+----
+
+You are now ready for the upcoming release of Deno 1.0 - Stay tuned 😍 Please leave me comment if you've liked this article! You can also follow me on Twitter [@loverdeolivier](https://twitter.com/loverdeolivier) 🙌
