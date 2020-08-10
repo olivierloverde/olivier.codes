@@ -8,24 +8,8 @@
     </url>
 
     <url>
-        <loc>https://olivier.codes/2020/03/28/Jamstack-create-a-scalable-blog-in-5-minutes-for-free-and-with-automatic-deployment-using-Hexo-Github-Pages-and-Github-Actions/</loc>
-        <lastmod>2020-08-10T07:48:24.204Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://olivier.codes/2020/03/28/hello-world/</loc>
-        <lastmod>2020-08-10T07:48:24.204Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://olivier.codes/2020/05/08/Deno-1-0-officially-scheduled-on-May-13-Review-of-the-features/</loc>
-        <lastmod>2020-08-10T07:48:24.200Z</lastmod>
+        <lastmod>2020-08-10T07:48:55.064Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -33,7 +17,23 @@
 
     <url>
         <loc>https://olivier.codes/2020/04/12/ES2020-Summary-of-new-features-with-examples/</loc>
-        <lastmod>2020-08-10T07:48:24.200Z</lastmod>
+        <lastmod>2020-08-10T07:48:55.064Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://olivier.codes/2020/03/28/Jamstack-create-a-scalable-blog-in-5-minutes-for-free-and-with-automatic-deployment-using-Hexo-Github-Pages-and-Github-Actions/</loc>
+        <lastmod>2020-08-10T07:48:55.064Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://olivier.codes/2020/03/28/hello-world/</loc>
+        <lastmod>2020-08-10T07:48:55.064Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
