@@ -12,10 +12,10 @@
       <link>https://olivier.codes/</link>
     </image>
     
-    <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://olivier.codes/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>Entrepreneur writing about my ideas and opinions on technology, codes, devops.</description>
-    <pubDate>Wed, 12 Aug 2020 12:36:23 GMT</pubDate>
+    <pubDate>Wed, 12 Aug 2020 12:37:47 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -23,14 +23,18 @@
       <link>https://olivier.codes/2020/05/08/Deno-1-0-officially-scheduled-on-May-13-Review-of-the-features/</link>
       <guid>https://olivier.codes/2020/05/08/Deno-1-0-officially-scheduled-on-May-13-Review-of-the-features/</guid>
       <pubDate>Fri, 08 May 2020 23:46:08 GMT</pubDate>
-      <description>
       
-        Explanation of the features coming in Deno 1.0
+      <description>Explanation of the features coming in Deno 1.0</description>
       
-      </description>
+      
+      
+      
+      
+      <category domain="https://olivier.codes/tags/deno-typescript-nodejs-node-js-release/">deno, typescript, nodejs, node.js, release</category>
       
       
       <comments>https://olivier.codes/2020/05/08/Deno-1-0-officially-scheduled-on-May-13-Review-of-the-features/#disqus_thread</comments>
+      
     </item>
     
     <item>
@@ -38,14 +42,18 @@
       <link>https://olivier.codes/2020/04/12/ES2020-Summary-of-new-features-with-examples/</link>
       <guid>https://olivier.codes/2020/04/12/ES2020-Summary-of-new-features-with-examples/</guid>
       <pubDate>Sun, 12 Apr 2020 16:39:07 GMT</pubDate>
-      <description>
       
-        In this article, we’re going to review some of the latest and greatest features coming with ES2020.
+      <description>In this article, we’re going to review some of the latest and greatest features coming with ES2020.</description>
       
-      </description>
+      
+      
+      
+      
+      <category domain="https://olivier.codes/tags/es2020-javascript-webdev-nodejs/">es2020, javascript, webdev, nodejs</category>
       
       
       <comments>https://olivier.codes/2020/04/12/ES2020-Summary-of-new-features-with-examples/#disqus_thread</comments>
+      
     </item>
     
     <item>
@@ -53,14 +61,18 @@
       <link>https://olivier.codes/2020/03/28/Jamstack-create-a-scalable-blog-in-5-minutes-for-free-and-with-automatic-deployment-using-Hexo-Github-Pages-and-Github-Actions/</link>
       <guid>https://olivier.codes/2020/03/28/Jamstack-create-a-scalable-blog-in-5-minutes-for-free-and-with-automatic-deployment-using-Hexo-Github-Pages-and-Github-Actions/</guid>
       <pubDate>Sat, 28 Mar 2020 23:20:54 GMT</pubDate>
-      <description>
       
-        We are going to use the JAMSTACK and GitHub services in order to build and deploy a blog in 5 minutes and for free.
+      <description>We are going to use the JAMSTACK and GitHub services in order to build and deploy a blog in 5 minutes and for free.</description>
       
-      </description>
+      
+      
+      
+      
+      <category domain="https://olivier.codes/tags/jamstack-javascript-webdev-github-actions-github-pages/">jamstack, javascript, webdev, github actions, github pages</category>
       
       
       <comments>https://olivier.codes/2020/03/28/Jamstack-create-a-scalable-blog-in-5-minutes-for-free-and-with-automatic-deployment-using-Hexo-Github-Pages-and-Github-Actions/#disqus_thread</comments>
+      
     </item>
     
     <item>
@@ -68,14 +80,18 @@
       <link>https://olivier.codes/2020/03/28/hello-world/</link>
       <guid>https://olivier.codes/2020/03/28/hello-world/</guid>
       <pubDate>Sat, 28 Mar 2020 20:05:41 GMT</pubDate>
-      <description>
       
-        My first blog post !
+      <description>My first blog post !</description>
       
-      </description>
+      
+      
+      
+      
+      <category domain="https://olivier.codes/tags/first/">first</category>
       
       
       <comments>https://olivier.codes/2020/03/28/hello-world/#disqus_thread</comments>
+      
     </item>
     
   </channel>
